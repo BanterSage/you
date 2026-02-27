@@ -12,19 +12,19 @@ body {
     height: 300h;
 
     .bar {
-        width: 39.5rem;
+        width: 33.3rem;
         background-color: #2C2D32;
-        background-image: url("https://assets-jpcust.jwpsrv.com/thumbnails/97pb82ar-720.jpg");
-        background-position-x: 115rem;
+        background-image: url("https://i.pinimg.com/564x/d2/2a/0a/d22a0a1961bd70e86b4ee8685fb81b62.jpg");
+        background-position-x: 128rem;
     }
 
     article {
         flex-grow: 1;
-        background-color: #780C0C;
+        background-color: #599974;
         margin: 0;
 
         .content {
-            background-color: #103F35;
+            background-color: #A677C8;
             height: 100%;
             margin: 0 150px;
             box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);            ;
@@ -42,6 +42,6 @@ a {
 
     &:hover {
         text-decoration: underline;
-        color: rgb(131, 0, 0);
+        color: rgb(164, 222, 255);
     }
 }

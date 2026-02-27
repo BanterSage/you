@@ -1,6 +1,5 @@
 body {
     text-align: center;
-    background-color: #CBB799;
     color: #000000;
     font-size: 1.5rem;
     margin: 0;
@@ -9,22 +8,22 @@ body {
 .container {
     width: 100%;
     display: flex;
-    height: 300h;
+    height: 188rem;
 
     .bar {
-        width: 39.5rem;
-        background-color: #2C2D32;
-        background-image: url("https://assets-jpcust.jwpsrv.com/thumbnails/97pb82ar-720.jpg");
-        background-position-x: 115rem;
+        width: 56.5rem;
+        background-color: #7BB1C9;
+        background-image: url("https://media.discordapp.net/attachments/525730856514486284/1477034284714954844/latest.png?ex=69a34adf&is=69a1f95f&hm=bab4330ff849cb22f47ca772da797fc5894b6801eaf1166274f384c2d3d9682b&=&format=webp&quality=lossless&width=698&height=712");
+        background-position-x: 120rem;
     }
 
     article {
         flex-grow: 1;
-        background-color: #780C0C;
+        background-color: #D99A95;
         margin: 0;
 
         .content {
-            background-color: #103F35;
+            background-color: #7BB1C9;
             height: 100%;
             margin: 0 150px;
             box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);            ;
@@ -42,6 +41,6 @@ a {
 
     &:hover {
         text-decoration: underline;
-        color: rgb(131, 0, 0);
+        color: rgb(117, 119, 248);
     }
 }
